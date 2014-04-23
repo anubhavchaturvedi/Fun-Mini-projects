@@ -28,6 +28,4 @@ public class Record {
 	public int[] getNumbers() {
 		return numbers;
 	}
-	
-	
 }

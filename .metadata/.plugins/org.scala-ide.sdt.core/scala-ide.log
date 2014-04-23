@@ -53,3 +53,316 @@ when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalCompu
 when weaving classes 
 when weaving 
  [Xlint:cantFindType]
+2014-03-30 01:23:48,417 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.junit.launcher.TestKind
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-30 01:23:48,430 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.ui.wizards.datatransfer.IImportStructureProvider
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-30 01:23:48,431 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-30 01:23:48,431 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-30 01:23:48,433 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationTab
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-30 01:23:48,433 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-30 01:23:48,434 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-30 01:23:48,435 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-30 01:23:48,435 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-30 01:23:48,436 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-03-30 01:23:48,436 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 14:58:38,497 ERROR [Thread-6] - System.err - java.net.UnknownHostException: tools.google.com
+2014-04-02 14:58:38,535 ERROR [Thread-6] - System.err - at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:175)
+2014-04-02 14:58:38,535 ERROR [Thread-6] - System.err - at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:385)
+2014-04-02 14:58:38,535 ERROR [Thread-6] - System.err - at java.net.Socket.connect(Socket.java:546)
+2014-04-02 14:58:38,535 ERROR [Thread-6] - System.err - at java.net.Socket.connect(Socket.java:495)
+2014-04-02 14:58:38,535 ERROR [Thread-6] - System.err - at sun.net.NetworkClient.doConnect(NetworkClient.java:178)
+2014-04-02 14:58:38,535 ERROR [Thread-6] - System.err - at sun.net.www.http.HttpClient.openServer(HttpClient.java:409)
+2014-04-02 14:58:38,535 ERROR [Thread-6] - System.err - at sun.net.www.http.HttpClient.openServer(HttpClient.java:530)
+2014-04-02 14:58:38,535 ERROR [Thread-6] - System.err - at sun.net.www.http.HttpClient.<init>(HttpClient.java:240)
+2014-04-02 14:58:38,536 ERROR [Thread-6] - System.err - at sun.net.www.http.HttpClient.New(HttpClient.java:321)
+2014-04-02 14:58:38,536 ERROR [Thread-6] - System.err - at sun.net.www.http.HttpClient.New(HttpClient.java:338)
+2014-04-02 14:58:38,536 ERROR [Thread-6] - System.err - at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:935)
+2014-04-02 14:58:38,536 ERROR [Thread-6] - System.err - at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:876)
+2014-04-02 14:58:38,536 ERROR [Thread-6] - System.err - at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:801)
+2014-04-02 14:58:38,536 ERROR [Thread-6] - System.err - at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1139)
+2014-04-02 14:58:38,536 ERROR [Thread-6] - System.err - at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:397)
+2014-04-02 14:58:38,536 ERROR [Thread-6] - System.err - at com.android.sdkstats.SdkStatsService.actuallySendPing(SdkStatsService.java:249)
+2014-04-02 14:58:38,536 ERROR [Thread-6] - System.err - at com.android.sdkstats.SdkStatsService.access$100(SdkStatsService.java:36)
+2014-04-02 14:58:38,536 ERROR [Thread-6] - System.err - at com.android.sdkstats.SdkStatsService$2.run(SdkStatsService.java:222)
+2014-04-02 14:58:38,551 ERROR [Thread-7] - System.err - java.net.UnknownHostException: tools.google.com
+2014-04-02 14:58:38,551 ERROR [Thread-7] - System.err - at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:175)
+2014-04-02 14:58:38,551 ERROR [Thread-7] - System.err - at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:385)
+2014-04-02 14:58:38,551 ERROR [Thread-7] - System.err - at java.net.Socket.connect(Socket.java:546)
+2014-04-02 14:58:38,551 ERROR [Thread-7] - System.err - at java.net.Socket.connect(Socket.java:495)
+2014-04-02 14:58:38,551 ERROR [Thread-7] - System.err - at sun.net.NetworkClient.doConnect(NetworkClient.java:178)
+2014-04-02 14:58:38,551 ERROR [Thread-7] - System.err - at sun.net.www.http.HttpClient.openServer(HttpClient.java:409)
+2014-04-02 14:58:38,551 ERROR [Thread-7] - System.err - at sun.net.www.http.HttpClient.openServer(HttpClient.java:530)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at sun.net.www.http.HttpClient.<init>(HttpClient.java:240)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at sun.net.www.http.HttpClient.New(HttpClient.java:321)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at sun.net.www.http.HttpClient.New(HttpClient.java:338)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:935)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:876)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:801)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1139)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:397)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at com.android.sdkstats.SdkStatsService.actuallySendPing(SdkStatsService.java:249)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at com.android.sdkstats.SdkStatsService.access$100(SdkStatsService.java:36)
+2014-04-02 14:58:38,552 ERROR [Thread-7] - System.err - at com.android.sdkstats.SdkStatsService$2.run(SdkStatsService.java:222)
+2014-04-02 15:01:48,482 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.junit.launcher.TestKind
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 15:01:48,484 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.ui.wizards.datatransfer.IImportStructureProvider
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 15:01:48,485 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 15:01:48,486 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 15:01:48,487 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationTab
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 15:01:48,488 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 15:01:48,489 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 15:01:48,490 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 15:01:48,490 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 15:01:48,490 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 15:01:48,491 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,291 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.junit.launcher.TestKind
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,309 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.ui.wizards.datatransfer.IImportStructureProvider
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,310 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,310 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,312 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationTab
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,312 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,314 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,315 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,316 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,317 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-02 23:28:49,317 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,017 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.junit.launcher.TestKind
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,139 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.ui.wizards.datatransfer.IImportStructureProvider
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,141 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,156 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,184 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationTab
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,185 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,211 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,212 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,212 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,213 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 02:57:33,213 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,585 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.junit.launcher.TestKind
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,606 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.ui.wizards.datatransfer.IImportStructureProvider
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,607 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,608 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when processing type mungers ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when processing type mungers 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,612 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.junit.launcher.JUnitLaunchConfigurationTab
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,613 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,615 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,615 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.JDIModelPresentation
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,616 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.debug.ui.BreakpointMarkerUpdater
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,617 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2014-04-10 03:13:33,617 ERROR [main] - System.err - [ch.epfl.insynth] error can't determine modifiers of missing type org.eclipse.jdt.internal.launching.JavaLaunchableTester
+when weaving type ch.epfl.insynth.core.completion.InsynthCompletionProposalComputer
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]

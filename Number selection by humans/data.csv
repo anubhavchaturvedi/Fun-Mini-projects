@@ -1,51 +1,146 @@
-Timestamp,Age,Gender,Education Level,Number 1,Number 2,Number 3,Number 4,Number 5,Number 6,Number 7,Number 8,Number 9,Number 10
-27/03/2014 22:47:13,19,Male,College ( undergraduate ),999,306,405,603,504,234,702,207,108,801
-27/03/2014 22:50:58,18,Female,College ( undergraduate ),345,123,111,222,333,444,555,666,777,888
-27/03/2014 22:52:50,18,Male,College ( undergraduate ),223,232,678,987,675,578,385,209,528,583
-27/03/2014 22:57:54,23,Male,College ( undergraduate ),999,127,246,339,459,456,852,134,457,885
-27/03/2014 22:58:35,19,Male,College ( undergraduate ),985,483,434,756,783,832,340,892,739,674
-27/03/2014 22:59:17,22,Male,College ( undergraduate ),243,754,187,531,998,708,430,763,197,519
-27/03/2014 23:00:11,18,Male,Intermediate ( upto class 12th ),777,123,111,100,456,789,321,251,157,255
-27/03/2014 23:02:16,18,Male,College ( undergraduate ),243,987,283,298,248,349,423,578,324,342
-27/03/2014 23:02:30,21,Male,College ( undergraduate ),111,222,999,120,220,998,555,333,888,987
-27/03/2014 23:02:41,18,Male,College ( undergraduate ),692,513,512,343,164,209,137,932,583,291
-27/03/2014 23:03:59,20,Male,College ( undergraduate ),125,789,671,574,987,364,897,214,177,569
-27/03/2014 23:06:10,18,Male,College ( undergraduate ),678,786,456,753,726,732,158,103,906,115
-27/03/2014 23:06:06,24,Male,Post Graduate,311,889,381,345,679,941,234,942,244,432
-27/03/2014 23:07:51,21,Male,College ( undergraduate ),231,512,221,987,654,321,555,663,888,774
-27/03/2014 23:25:55,20,Female,College ( undergraduate ),590,732,451,242,983,199,802,764,869,439
-27/03/2014 23:29:12,20,Male,College ( undergraduate ),492,205,593,204,693,497,104,693,503,406
-27/03/2014 23:29:24,21,Male,College ( undergraduate ),101,111,121,131,141,151,161,171,181,191
-27/03/2014 23:31:14,21,Male,College ( undergraduate ),121,117,256,786,456,741,125,268,862,954
-27/03/2014 23:33:00,56,Male,College ( undergraduate ),123,672,831,405,442,651,371,315,762,238
-27/03/2014 23:33:16,19,Female,College ( undergraduate ),111,121,234,986,492,333,666,592,695,690
-27/03/2014 23:33:32,23,Male,College ( undergraduate ),435,971,632,123,651,156,128,562,985,154
-27/03/2014 23:33:39,20,Male,College ( undergraduate ),546,273,139,975,652,774,335,986,423,105
-27/03/2014 23:34:43,19,Male,College ( undergraduate ),111,111,111,111,111,111,111,111,111,111
-27/03/2014 23:44:32,20,Male,College ( undergraduate ),246,865,235,764,246,876,124,412,868,134
-27/03/2014 23:52:47,29,Male,Post Graduate,121,109,729,864,372,422,392,324,777,990
-27/03/2014 23:49:03,18,Male,College ( undergraduate ),678,123,135,159,124,126,127,568,120,670
-28/03/2014 02:07:13,19,Male,College ( undergraduate ),542,860,921,922,750,312,600,701,212,656
-27/03/2014 23:58:27,19,Male,College ( undergraduate ),786,879,789,328,478,568,345,986,324,243
-28/03/2014 00:13:25,20,Male,College ( undergraduate ),595,646,988,135,351,354,841,465,384,313
-28/03/2014 00:15:54,21,Male,College ( undergraduate ),594,256,374,985,212,313,196,315,795,818
-28/03/2014 00:30:55,20,Male,College ( undergraduate ),754,589,483,258,740,275,196,788,956,376
-28/03/2014 00:32:47,29,Male,College ( undergraduate ),101,129,342,501,690,442,420,124,421,555
-28/03/2014 00:39:10,18,Female,College ( undergraduate ),454,902,987,789,981,312,510,327,242,333
-28/03/2014 00:42:05,89,Male,College ( undergraduate ),332,111,451,329,100,912,911,310,332,332
-28/03/2014 00:43:47,19,Male,College ( undergraduate ),468,878,888,545,619,523,412,278,689,744
-28/03/2014 00:50:50,20,Male,College ( undergraduate ),302,592,823,501,555,823,193,103,583,730
-28/03/2014 01:03:41,20,Male,Post Graduate,100,343,999,123,321,666,777,333,222,111
-28/03/2014 01:10:28,21,Male,College ( undergraduate ),321,442,551,232,231,554,729,109,882,751
-28/03/2014 01:11:29,21,Female,College ( undergraduate ),856,222,545,851,654,269,343,121,777,586
-28/03/2014 01:23:14,20,Male,College ( undergraduate ),121,139,298,476,142,558,321,890,999,666
-28/03/2014 01:32:02,21,Male,College ( undergraduate ),343,786,123,729,512,256,361,444,173,371
-28/03/2014 02:12:22,18,Male,College ( undergraduate ),371,469,420,671,987,860,561,261,313,343
-28/03/2014 02:12:48,20,Male,College ( undergraduate ),746,890,325,400,229,952,953,955,667,666
-27/03/2014 23:58:27,19,Male,College ( undergraduate ),786,879,789,328,478,568,345,986,324,243
-28/03/2014 03:26:52,21,Male,College ( undergraduate ),111,919,610,580,369,972,211,100,999,500
-28/03/2014 04:00:30,27,Male,College ( undergraduate ),364,226,227,221,223,665,965,357,559,448
-28/03/2014 04:18:12,21,Male,College ( undergraduate ),347,243,142,257,343,375,467,579,979,787
-28/03/2014 08:31:16,20,Male,Intermediate ( upto class 12th ),312,451,168,975,532,582,473,286,309,150
-28/03/2014 09:48:05,20,Male,College ( undergraduate ),666,725,901,482,119,803,366,491,666,546
-28/03/2014 11:59:23,19,Male,College ( undergraduate ),111,145,239,349,543,968,234,875,548,485
+Timestamp;Age;Gender;Education Level;Number 1;Number 2;Number 3
+27/03/2014 22:47:13;19;Male;College ( undergraduate );999;306;405
+27/03/2014 22:50:58;18;Female;College ( undergraduate );345;123;111
+27/03/2014 22:52:50;18;Male;College ( undergraduate );223;232;678
+27/03/2014 22:57:54;23;Male;College ( undergraduate );999;127;246
+27/03/2014 22:58:35;19;Male;College ( undergraduate );985;483;434
+27/03/2014 22:59:17;22;Male;College ( undergraduate );243;754;187
+27/03/2014 23:00:11;18;Male;Intermediate ( upto class 12th );777;123;111
+27/03/2014 23:02:16;18;Male;College ( undergraduate );243;987;283
+27/03/2014 23:02:30;21;Male;College ( undergraduate );111;222;999
+27/03/2014 23:02:41;18;Male;College ( undergraduate );692;513;512
+27/03/2014 23:03:59;20;Male;College ( undergraduate );125;789;671
+27/03/2014 23:06:10;18;Male;College ( undergraduate );678;786;456
+27/03/2014 23:06:06;24;Male;Post Graduate;311;889;381
+27/03/2014 23:07:51;21;Male;College ( undergraduate );231;512;221
+27/03/2014 23:25:55;20;Female;College ( undergraduate );590;732;451
+27/03/2014 23:29:12;20;Male;College ( undergraduate );492;205;593
+27/03/2014 23:29:24;21;Male;College ( undergraduate );101;111;121
+27/03/2014 23:31:14;21;Male;College ( undergraduate );121;117;256
+27/03/2014 23:33:00;56;Male;College ( undergraduate );123;672;831
+27/03/2014 23:33:16;19;Female;College ( undergraduate );111;121;234
+27/03/2014 23:33:32;23;Male;College ( undergraduate );435;971;632
+27/03/2014 23:33:39;20;Male;College ( undergraduate );546;273;139
+27/03/2014 23:34:43;19;Male;College ( undergraduate );111;111;111
+27/03/2014 23:44:32;20;Male;College ( undergraduate );246;865;235
+27/03/2014 23:52:47;29;Male;Post Graduate;121;109;729
+27/03/2014 23:49:03;18;Male;College ( undergraduate );678;123;135
+28/03/2014 02:07:13;19;Male;College ( undergraduate );542;860;921
+27/03/2014 23:58:27;19;Male;College ( undergraduate );786;879;789
+28/03/2014 00:13:25;20;Male;College ( undergraduate );595;646;988
+28/03/2014 00:15:54;21;Male;College ( undergraduate );594;256;374
+28/03/2014 00:30:55;20;Male;College ( undergraduate );754;589;483
+28/03/2014 00:32:47;29;Male;College ( undergraduate );101;129;342
+28/03/2014 00:39:10;18;Female;College ( undergraduate );454;902;987
+28/03/2014 00:42:05;89;Male;College ( undergraduate );332;111;451
+28/03/2014 00:43:47;19;Male;College ( undergraduate );468;878;888
+28/03/2014 00:50:50;20;Male;College ( undergraduate );302;592;823
+28/03/2014 01:03:41;20;Male;Post Graduate;100;343;999
+28/03/2014 01:10:28;21;Male;College ( undergraduate );321;442;551
+28/03/2014 01:11:29;21;Female;College ( undergraduate );856;222;545
+28/03/2014 01:23:14;20;Male;College ( undergraduate );121;139;298
+28/03/2014 01:32:02;21;Male;College ( undergraduate );343;786;123
+28/03/2014 02:12:22;18;Male;College ( undergraduate );371;469;420
+28/03/2014 02:12:48;20;Male;College ( undergraduate );746;890;325
+27/03/2014 23:58:27;19;Male;College ( undergraduate );786;879;789
+28/03/2014 03:26:52;21;Male;College ( undergraduate );111;919;610
+28/03/2014 04:00:30;27;Male;College ( undergraduate );364;226;227
+28/03/2014 04:18:12;21;Male;College ( undergraduate );347;243;142
+28/03/2014 08:31:16;20;Male;Intermediate ( upto class 12th );312;451;168
+28/03/2014 09:48:05;20;Male;College ( undergraduate );666;725;901
+28/03/2014 11:59:23;19;Male;College ( undergraduate );111;145;239
+28/03/2014 14:50:52;20;Male;College ( undergraduate );297;121;777
+28/03/2014 17:21:20;19;Male;College ( undergraduate );666;177;719
+28/03/2014 20:16:27;18;Female;College ( undergraduate );100;197;999
+28/03/2014 19:14:10;89;Male;Intermediate ( upto class 12th );101;102;103
+28/03/2014 22:56:13;36;Male;College ( undergraduate );172;336;189
+29/03/2014 00:00:53;18;Female;Intermediate ( upto class 12th );348;257;999
+29/03/2014 00:01:16;22;Female;College ( undergraduate );123;345;837
+29/03/2014 00:01:58;19;Female;College ( undergraduate );864;457;879
+29/03/2014 00:04:47;35;Female;College ( undergraduate );456;721;263
+29/03/2014 00:06:05;11;Male;Intermediate ( upto class 12th );291;112;133
+30/03/2014 13:07:05;21;Male;College ( undergraduate );131;564;654
+30/03/2014 20:26:15;19;Male;College ( undergraduate );786;423;985
+31/03/2014 07:23:35;21;Male;College ( undergraduate );635;392;187
+31/03/2014 07:34:07;64;Male;Post Graduate;173;344;847
+02/04/2014 10:48:34;21;Male;College ( undergraduate );369;129;497
+02/04/2014 10:49:58;18;Male;Intermediate ( upto class 12th );315;100;999
+02/04/2014 10:57:47;18;Female;College ( undergraduate );111;123;222
+02/04/2014 10:51:18;21;Male;College ( undergraduate );222;222;222
+02/04/2014 10:56:41;20;Male;College ( undergraduate );258;105;245
+02/04/2014 11:46:18;21;Male;College ( undergraduate );215;127;361
+02/04/2014 11:49:01;20;Female;College ( undergraduate );999;333;666
+02/04/2014 11:44:07;98;Male;No formal education;777;386;492
+02/04/2014 10:58:23;18;Male;College ( undergraduate );777;543;159
+02/04/2014 11:01:32;20;Male;College ( undergraduate );476;435;898
+02/04/2014 11:17:01;19;Male;College ( undergraduate );124;562;139
+02/04/2014 12:19:37;20;Male;College ( undergraduate );143;100;999
+02/04/2014 11:58:10;21;Male;College ( undergraduate );191;724;586
+02/04/2014 12:02:52;21;Male;College ( undergraduate );343;786;512
+02/04/2014 12:07:08;18;Male;College ( undergraduate );365;536;287
+02/04/2014 12:07:39;20;Male;College ( undergraduate );565;231;931
+02/04/2014 12:23:04;20;Male;College ( undergraduate );123;456;789
+02/04/2014 12:31:25;20;Male;College ( undergraduate );256;456;119
+02/04/2014 12:31:54;24;Male;College ( undergraduate );409;623;725
+02/04/2014 12:28:05;18;Male;College ( undergraduate );713;345;321
+02/04/2014 12:28:28;21;Male;College ( undergraduate );435;227;678
+02/04/2014 12:28:36;21;Male;College ( undergraduate );631;185;279
+02/04/2014 12:37:10;20;Male;College ( undergraduate );384;729;111
+02/04/2014 12:43:08;19;Male;College ( undergraduate );231;341;593
+02/04/2014 13:29:48;21;Male;College ( undergraduate );289;354;691
+02/04/2014 12:52:52;18;Male;Intermediate ( upto class 12th );100;101;102
+02/04/2014 12:53:18;21;Male;College ( undergraduate );453;982;131
+02/04/2014 12:57:04;25;Male;Post Graduate;729;121;999
+02/04/2014 13:06:08;19;Male;College ( undergraduate );131;574;558
+02/04/2014 13:07:06;21;Male;College ( undergraduate );729;300;572
+02/04/2014 13:17:46;22;Male;College ( undergraduate );245;717;991
+02/04/2014 13:32:47;21;Male;College ( undergraduate );222;255;696
+02/04/2014 13:33:46;20;Male;Post Graduate;101;301;787
+02/04/2014 13:33:47;19;Female;College ( undergraduate );647;468;672
+02/04/2014 13:50:41;20;Male;College ( undergraduate );456;345;987
+02/04/2014 13:44:11;19;Male;College ( undergraduate );248;562;292
+02/04/2014 14:12:27;18;Male;Intermediate ( upto class 12th );777;123;456
+02/04/2014 13:52:46;18;Male;College ( undergraduate );456;357;137
+02/04/2014 14:21:52;20;Male;Intermediate ( upto class 12th );497;125;662
+02/04/2014 14:25:23;21;Male;Intermediate ( upto class 12th );219;209;200
+02/04/2014 14:29:06;21;Female;College ( undergraduate );183;566;676
+02/04/2014 14:42:21;20;Male;College ( undergraduate );555;777;909
+02/04/2014 14:51:36;20;Male;College ( undergraduate );147;359;856
+02/04/2014 15:21:14;20;Male;College ( undergraduate );222;244;444
+02/04/2014 15:22:17;19;Female;College ( undergraduate );693;242;868
+02/04/2014 15:44:04;16;Male;College ( undergraduate );799;141;652
+02/04/2014 16:31:17;21;Female;College ( undergraduate );253;842;916
+02/04/2014 16:45:45;20;Male;College ( undergraduate );219;138;204
+02/04/2014 17:29:48;20;Male;College ( undergraduate );345;269;459
+02/04/2014 17:37:42;22;Male;College ( undergraduate );111;111;111
+02/04/2014 18:32:59;18;Male;College ( undergraduate );777;666;222
+02/04/2014 17:57:08;19;Male;College ( undergraduate );123;777;786
+02/04/2014 18:16:09;21;Male;College ( undergraduate );777;125;981
+02/04/2014 18:43:40;20;Male;College ( undergraduate );456;793;114
+02/04/2014 19:25:44;21;Male;College ( undergraduate );240;109;237
+02/04/2014 19:38:34;22;Male;College ( undergraduate );100;420;501
+02/04/2014 19:22:33;74;Male;College ( undergraduate );156;578;556
+02/04/2014 19:19:29;21;Male;College ( undergraduate );771;844;178
+02/04/2014 20:22:50;20;Female;College ( undergraduate );286;319;407
+02/04/2014 19:53:15;99;Male;College ( undergraduate );489;624;527
+02/04/2014 20:47:30;21;Male;College ( undergraduate );519;568;319
+02/04/2014 21:29:17;18;Male;College ( undergraduate );123;456;789
+02/04/2014 21:41:00;19;Male;Intermediate ( upto class 12th );254;852;342
+02/04/2014 21:41:55;21;Male;College ( undergraduate );342;464;471
+02/04/2014 21:44:25;21;Male;College ( undergraduate );714;105;129
+02/04/2014 21:52:51;19;Male;College ( undergraduate );123;421;589
+02/04/2014 23:06:30;21;Male;College ( undergraduate );786;666;512
+02/04/2014 23:51:36;20;Male;College ( undergraduate );341;345;765
+03/04/2014 02:50:38;18;Female;College ( undergraduate );280;100;102
+03/04/2014 02:52:29;18;Male;College ( undergraduate );212;463;769
+03/04/2014 02:56:10;10;Male;No formal education;622;441;878
+03/04/2014 03:30:29;20;Male;College ( undergraduate );576;982;157
+03/04/2014 06:57:41;18;Male;College ( undergraduate );109;114;999
+03/04/2014 09:14:30;20;Male;College ( undergraduate );458;759;164
+03/04/2014 10:30:10;20;Male;College ( undergraduate );897;568;231
+03/04/2014 12:20:02;21;Male;College ( undergraduate );543;723;621
+03/04/2014 12:00:26;21;Female;College ( undergraduate );823;425;700
+03/04/2014 12:31:33;20;Male;College ( undergraduate );875;461;743
+03/04/2014 12:54:14;21;Male;College ( undergraduate );288;182;161
+04/04/2014 02:48:42;12;Male;No formal education;232;453;674
+04/04/2014 02:49:13;16;Male;High school ( upto class 10th  );323;444;445

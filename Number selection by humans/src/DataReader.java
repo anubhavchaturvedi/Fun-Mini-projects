@@ -23,7 +23,7 @@ public class DataReader {
 		while(scan.hasNext())
 		{
 			String record = scan.nextLine();
-			String values[] = record.split(",");
+			String values[] = record.split(";");
 			
 			char gender = values[2].equals("Male")?'M':'F';
 			
@@ -31,8 +31,8 @@ public class DataReader {
 			
 			String educationLevel = values[3];
 			
-			int numbers[] = new int[10];
-			for( int i=0;i<10;i++)
+			int numbers[] = new int[3];
+			for( int i=0;i<3;i++)
 				numbers[i] = Integer.parseInt(values[4+i]);
 			
 			records.add(new Record(age, gender, educationLevel, numbers));
